@@ -1,0 +1,2 @@
+2022/08/04 13:29:09 [alert] 14620#13528: OpenEvent("ngx_master_7772") failed (2: The system cannot find the file specified)
+2022/08/10 10:00:07 [error] 2104#7868: *14491 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: , request: "POST /wp-admin/admin-ajax.php HTTP/1.0", upstream: "fastcgi://127.0.0.1:10014", host: "footscrayvietnamesealliance.local", referrer: "http://footscrayvietnamesealliance.local/wp-admin/themes.php"
